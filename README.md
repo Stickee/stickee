@@ -1,2 +1,2 @@
-stickee
+Stickee/stickee
 =======
